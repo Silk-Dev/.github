@@ -19,7 +19,7 @@ To provide you with a precise answer, we have to evaluate the project complexity
 
 #### 👉️ Should I be familiar with the technical details to work with you?
 
-Therefore, you just have to focus on your needs, and we will help you make them a reality.
+You just have to focus on your needs, and we will help you make them a reality.
 
 #### 👉️ Do you provide product support services after the app development is complete?
 
