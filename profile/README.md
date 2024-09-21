@@ -1,6 +1,6 @@
 
 ![Logo](https://avatars.githubusercontent.com/u/135840222)
-# SilkDev 🚀
+# SILKDEV 🚀
 
 SILKDEV was founded in 2022, and we seek to accomplish so much over our competitiors. To create a world where making fast and reliable software is available to everyone has always been our goal.
 
